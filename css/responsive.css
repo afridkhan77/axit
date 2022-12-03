@@ -1,0 +1,863 @@
+
+@media (min-width: 279px) and (max-width: 319px){
+  /* css start here */
+  .header-section .navbar-toggler{
+    background: green;
+    border: 1px solid green;
+    border-radius: 0px;
+  }
+  .header-section .navbar-toggler .fa{
+    color: yellow;
+  }
+  .header-section .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    width: 100%;
+    padding: 60px 0px;
+  }
+  .banner-content{
+    width: 100%;
+  }
+  .banner-content h1{
+    font-size: 14px;
+    margin-left: 20px;
+  }
+  .divider{
+    width: 100%;
+    padding: 10px 70px;
+  }
+  .banner-text{
+    font-size: 8px;
+    margin-left: 15px;
+  }
+  .banner-btn{
+    width: 100%;
+    margin-left: 50px;
+  }
+  .feature{
+    width: 100%;
+    padding: 40px 0px;
+  }
+  .feature-content h3{
+    font-size: 16px;
+  }
+  .feature-content p{
+    font-size: 6px;
+    padding: 0px 20px 0px;
+  }
+  .feature-btn{
+    width: 100%;
+    padding: 0px 25px;
+    margin-left: 20px;
+  }
+  .feature-btn .btn-primary{
+    width: 70%;
+    font-size: 10px;
+  }
+  .feature-img{
+    padding: 30px 0px;
+    width: 90%;
+  }
+  .sub-section{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .sub-section .sub-img{
+    width: 95%;
+  }
+  .sub text h3{
+    width: 100%;
+    padding: 0px 40px;
+    font-size: 16px;
+  }
+  .divider {
+    width: 80%;
+    padding: 10px 70px;
+}
+  .sub-text p{
+    width: 100%;
+    font-size: 9px;
+    padding: 0px 8px;
+  }
+  .title-icon{
+    width: 18%;
+    font-size: 20px;
+    margin: 0px 80px;
+  }
+  .title-text h3{
+    font-size: 25px;
+    padding: 10px 80px
+  }
+  .title-text p{
+    font-size: 10px;
+    padding: 0px 11px;
+  }
+  .standard{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .standard-info h3{
+    font-size: 22px;
+    margin-left: 7px;
+  }
+  .divider-stan{
+    width: 100%;
+    padding: 0px 80px 0px;
+  }
+  .standard-p{
+    font-size: 8px;
+  }
+  .standard-img{
+    width: 80%;
+  }
+  .our-process{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .info-icon{
+    margin: 10px 90px;
+  }
+  .our-process .title h2 {
+    font-size: 20px;
+    margin: 0px 10px;
+  }
+  .our-process .title-p{
+    font-size: 10px;
+  }
+  .our-info h3{
+    font-size: 14px;
+    padding: 0px 60px;
+  }
+  .our-info h4{
+    font-size: 14px;
+    padding: 0px 40px;
+  }
+  .our-info p{
+    font-size: 8px;
+    padding: 0px 30px;
+  }
+  .customers{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .customer-title h1{
+    font-size: 13px;
+  }
+  .customer-p{
+    font-size: 9px;
+  }
+  .customer-content{
+    padding: 0px 10px;
+  }
+  .customer-content p{
+    font-size: 12px;
+  }
+  .customer-name h3{
+    font-size: 16px;
+  }
+  .customer-name p{
+    font-size: 10px;
+  }
+  .design{
+    width: 100%;
+  }
+  .design-text h2 {
+    font-size: 21px;
+}
+.design-p{
+  font-size: 8px;
+}
+.contact-us{
+  width: 100%;
+  padding: 20px 0px;
+}
+.contact-text h2{
+  font-size: 35px;
+}
+.contact-p{
+  font-size: 10px;
+}
+.main-from{
+  width: 100%;
+}
+.main-from .form-control{
+  font-size: 8px;
+}
+.main-from .btn-link{
+  width: 40%;
+  font-size: 8px;
+}
+.footer{
+  width: 100%;
+}
+ .s-icon ul li a{
+  width: 100%;
+  font-size: 8px;
+  text-align: center;
+}
+.footer .copy-right p{
+  font-size: 10px;
+}
+  /* css end here */
+}
+@media (min-width: 320px) and (max-width: 480px){
+   /* css start here */
+   .header-section .navbar-toggler{
+    background: green;
+    border: 1px solid green;
+    border-radius: 0px;
+  }
+  .header-section .navbar-toggler .fa{
+    color: yellow;
+  }
+  .header-section .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .banner-content{
+    width: 100%;
+  }
+  .banner-content h1{
+    font-size: 20px;
+    margin-left: 30px;
+  }
+  .divider{
+    width: 100%;
+    padding: 10px 70px;
+  }
+  .banner-text{
+    font-size: 12px;
+    margin-left: 15px;
+  }
+  .banner-btn{
+    width: 20%;
+    margin-left: 50px;
+  }
+  .feature{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .feature-content h3{
+    font-size: 20px;
+    padding: 0px 20px;
+  }
+  .feature-content p{
+    font-size: 10px;
+    padding: 0px 20px 0px;
+  }
+  .feature-btn{
+    width: 80%;
+    padding: 15px 45px;
+    margin-left: 30px;
+  }
+  .feature-btn .btn-primary{
+    width: 70%;
+    font-size: 10px;
+  }
+  .feature-img{
+    padding: 40px 0px;
+    width: 90%;
+  }
+  .sub-section{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .sub-section .sub-img{
+    width: 95%;
+  }
+  .sub text h3{
+    padding: 0px 40px;
+    font-size: 16px;
+  }
+  .divider {
+    width: 80%;
+    padding: 10px 90px;
+}
+  .sub-text p{
+    font-size: 13px;
+    padding: 0px 8px;
+  }
+  .title-icon{
+    width: 15%;
+    margin: 0px 120px;
+
+  }
+  .title-icon .fa-cloud-upload{
+    margin-left: 15px;
+  }
+  .title-icon .fa-cloud-download{
+    margin-left: 15px;
+  }
+  .title-text h3{
+    font-size: 30px;
+    padding: 10px 120px
+  }
+  .title-text p{
+    font-size: 14px;
+    padding: 0px 11px;
+  }
+  .standard{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .standard-info h3{
+    font-size: 23px;
+    margin-left: 40px;
+  }
+  .divider-stan{
+    width: 100%;
+    padding: 0px 100px 10px;
+  }
+  .standard-p{
+    font-size: 10px;
+    padding: 0px 20px;
+  }
+  .standard-img{
+    width: 90%;
+    margin: 0px 20px;
+  }
+  .our-process{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .divider-title{
+    width: 100%;
+    margin-left: -20px;
+  }
+  .our-info{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .info-icon{
+    margin: 10px 120px;
+  }
+  .our-process .title h2 {
+    font-size: 25px;
+    margin: 0px 10px;
+  }
+  .our-process .title-p{
+    font-size: 13px;
+  }
+  .our-info h3{
+    font-size: 16px;
+    padding: 0px 80px;
+  }
+  .our-info h4{
+    font-size: 16px;
+    padding: 0px 70px;
+  }
+  .our-info p{
+    font-size: 12px;
+    padding: 0px 26px;
+  }
+  .customers{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .customer-title h1{
+    font-size: 17px;
+    margin-left: -10px;
+    margin-bottom: -10px;
+  }
+  .customer-div{
+    width: 100%;
+    margin-left: -60px;
+  }
+  .customer-p{
+    font-size: 16px;
+    margin: 0px 40px;
+  }
+  .customer-content{
+    padding: 0px 10px;
+  }
+  .customer-content p{
+    font-size: 12px;
+    padding: 10px 40px
+  }
+  .customer-info{
+    width: 100%;
+    padding: 30px 50px;
+}
+  .customer-name h3{
+    font-size: 14px;
+    margin: 0px 140px;
+  }
+  .customer-name p{
+    font-size: 12px;
+    padding: 0px 55px;
+  }
+  .design{
+    width: 100%;
+  }
+  .design-text h2 {
+    font-size: 28px;
+}
+.design-p{
+  font-size: 8px;
+}
+.contact-us{
+  width: 100%;
+  padding: 20px 0px;
+}
+.contact-text h2{
+  font-size: 40px;
+}
+.contact-p{
+  font-size: 13px;
+}
+.main-from{
+  width: 95%;
+}
+.main-from .form-control{
+  font-size: 8px;
+}
+.main-from .btn-link{
+  width: 40%;
+  font-size: 8px;
+}
+.footer{
+  width: 100%;
+}
+ .s-icon ul li a{
+  width: 100%;
+  font-size: 8px;
+  text-align: center;
+}
+.footer .copy-right p{
+  font-size: 13px;
+}
+
+
+  /* css end here */
+}
+@media (min-width: 481px) and (max-width: 767px){
+   /* css start here */
+   .header-section .navbar-toggler{
+    background: green;
+    border: 1px solid green;
+    border-radius: 0px;
+  }
+  .header-section .navbar-toggler .fa{
+    color: yellow;
+  }
+  .header-section .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .banner-content{
+    width: 100%;
+  }
+  .banner-content h1{
+    font-size: 20px;
+    margin-left: 30px;
+  }
+  .divider{
+    width: 100%;
+    padding: 10px 70px;
+  }
+  .banner-text{
+    font-size: 12px;
+    margin-left: 15px;
+  }
+  .banner-btn{
+    width: 20%;
+    margin-left: 50px;
+  }
+  .feature{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .feature-content h3{
+    font-size: 20px;
+    padding: 0px 20px;
+  }
+  .feature-content p{
+    font-size: 10px;
+    padding: 0px 20px 0px;
+  }
+  .feature-btn{
+    width: 80%;
+    padding: 15px 45px;
+    margin-left: 30px;
+  }
+  .feature-btn .btn-primary{
+    width: 70%;
+    font-size: 10px;
+  }
+  .feature-img{
+    padding: 40px 0px;
+    width: 90%;
+  }
+  .sub-section{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .sub-section .sub-img{
+    width: 95%;
+  }
+  .sub text h3{
+    padding: 0px 40px;
+    font-size: 16px;
+  }
+  .divider {
+    width: 80%;
+    padding: 10px 90px;
+}
+  .sub-text p{
+    font-size: 13px;
+    padding: 0px 8px;
+  }
+  .title-icon{
+    width: 15%;
+    margin: 0px 120px;
+
+  }
+  .title-icon .fa-cloud-upload{
+    margin-left: 15px;
+  }
+  .title-icon .fa-cloud-download{
+    margin-left: 15px;
+  }
+  .title-text h3{
+    font-size: 30px;
+    padding: 10px 120px
+  }
+  .title-text p{
+    font-size: 14px;
+    padding: 0px 11px;
+  }
+  .standard{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .standard-info h3{
+    font-size: 23px;
+    margin-left: 40px;
+  }
+  .divider-stan{
+    width: 100%;
+    padding: 0px 100px 10px;
+  }
+  .standard-p{
+    font-size: 10px;
+    padding: 0px 20px;
+  }
+  .standard-img{
+    width: 90%;
+    margin: 0px 20px;
+  }
+  .our-process{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .divider-title{
+    width: 100%;
+    margin-left: -80px;
+  }
+  .our-info{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .info-icon{
+    margin: 10px 120px;
+  }
+  .our-process .title h2 {
+    font-size: 25px;
+    margin: 0px 10px;
+  }
+  .our-process .title-p{
+    font-size: 13px;
+  }
+  .our-info h3{
+    font-size: 16px;
+    padding: 0px 80px;
+  }
+  .our-info h4{
+    font-size: 16px;
+    padding: 0px 70px;
+  }
+  .our-info p{
+    font-size: 13px;
+    padding: 0px 26px;
+  }
+  .customers{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .customer-title h1{
+    font-size: 17px;
+    margin-left: -10px;
+    margin-bottom: -10px;
+  }
+  .customer-div{
+    width: 100%;
+    margin-left: -60px;
+  }
+  .customer-p{
+    font-size: 16px;
+    margin: 0px 40px;
+  }
+  .customer-content{
+    padding: 0px 10px;
+  }
+  .customer-content p{
+    font-size: 12px;
+    padding: 10px 40px
+  }
+  .customer-info{
+    width: 100%;
+    padding: 30px 50px;
+}
+  .customer-name h3{
+    font-size: 14px;
+    margin: 0px 140px;
+  }
+  .customer-name p{
+    font-size: 12px;
+    padding: 0px 55px;
+  }
+  .design{
+    width: 100%;
+  }
+  .design-text h2 {
+    font-size: 28px;
+}
+.design-p{
+  font-size: 8px;
+}
+.contact-us{
+  width: 100%;
+  padding: 20px 0px;
+}
+.contact-text h2{
+  font-size: 40px;
+}
+.contact-p{
+  font-size: 13px;
+}
+.main-from{
+  width: 100%;
+}
+.main-from .form-control{
+  font-size: 8px;
+}
+.main-from .btn-link{
+  width: 40%;
+  font-size: 8px;
+}
+.footer{
+  width: 100%;
+}
+ .s-icon ul li a{
+  width: 100%;
+  font-size: 8px;
+  text-align: center;
+}
+.footer .copy-right p{
+  font-size: 13px;
+}
+  /* css end here */
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+   /* css start here */
+   .header-section .navbar-toggler{
+    background: green;
+    border: 1px solid green;
+    border-radius: 0px;
+  }
+  .header-section .navbar-toggler .fa{
+    color: yellow;
+  }
+  .header-section .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner-content h1 {
+       font-size: 40px;
+  }
+  .divider {
+    width: 100%;
+    padding: 30px 0px;
+  }
+  .banner-text{
+    font-size: 20px;
+  }
+  .banner-btn {
+    width: 100%;
+    padding: 70px 0px;
+ }
+ .feature{
+  width: 100%;
+  padding: 40px 0px;
+ }
+ .feature-content h3{
+  font-size: 35px;
+ }
+ .feature-content p{
+  font-size: 21px;
+ }
+ .feature-btn {
+  width: 80%;
+  padding: 40px 0px;
+}
+.feature-img{
+  width: 90%;
+  padding: 20px 0px;
+}
+.sub-section{
+  width: 100%;
+  padding: 30px 0px;
+}
+.sub-img {
+  width: 90%;
+  margin: 20px 10px;
+}
+.sub text{
+  width: 100%;
+}
+.sub text h3{
+  font-size: 30px;
+}
+.divider{
+  width: 100%;
+  padding: 20px 250px;
+}
+.sub-text p{
+  font-size: 20px;
+  padding: 10px 60px;
+}
+.title-icon{
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  border: 3px solid #ff8b38;
+  border-radius: 100%;
+  margin: 20px 250px;
+}
+.title-icon .fa-cloud-upload{
+  color: #ff8b38;
+  margin-left: 12px;
+}
+.title-text{
+  padding: 10px 0px;
+}
+.title-text h3{
+  font-size: 28px;
+  padding: 10px 250px;
+}
+.title-text p{
+  font-size: 22px;
+  padding: 10px 60px;
+ 
+}
+.title-icon .fa-cloud-download{
+  color: #ff8b38;
+  margin-left: 12px;
+}
+.standard{
+  width: 100%;
+  padding: 30px 0px;
+}
+.standard-info h3 {
+  font-size: 40px;
+  padding: 20px 90px;
+}
+.divider-stan {
+  width: 100%;
+  padding: 0px 230px 10px;
+}
+.standard-p{
+  font-size: 20px;
+  padding: 20px 30px;
+}
+.standard-img{
+  width: 90%;
+  margin: 20px 30px;
+}
+.our-process{
+  width: 100%;
+  padding: 40px 0px;
+}
+.our-process .title h2 {
+  font-size: 40px;
+}
+.title-p{
+  padding: 30px 0px;
+  font-size: 25px;
+}
+.our-info{
+  width: 100%;
+  padding: 40px 0px;
+}
+.info-icon{
+  margin: 20px 250px;
+}
+.info-icon .fa-lightbulb-o{
+  color: #ff8b38;
+  margin-left: 17px;
+  font-size: 30px;
+}
+.info-icon .fa-keyboard-o{
+  color: #ff8b38;
+  margin-left: 14px;
+  font-size: 30px;
+}
+.info-icon .fa-bolt{
+  color: #ff8b38;
+  margin-left: 17px;
+  font-size: 30px;
+}
+.our-info h3{
+  font-size: 30px;
+ padding: 10px 180px;
+}
+.our-info h4{
+  font-size: 30px;
+  padding: 10px 180px;
+}
+.our-info p{
+  font-size: 18px;
+  padding: 10px 110px;
+}
+.customers{
+  width: 100%;
+  padding: 40px 0px; 
+}
+.customer-title h1 {
+  font-size: 35px;
+}
+.customer-p {
+  padding: 25px 0px;
+  font-size: 20px;
+}
+.customer-content p{
+  font-size: 16px;
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.customer-info {
+  width: 100%;
+  padding: 50px 230px;
+}
+.customer-name h3 {
+  font-size: 20px;
+  margin-left: 310px;
+  margin-top: -20px;
+}
+.customer-name p {
+  font-size: 14px;
+  margin-left: 310px;
+}
+.design-p{
+  font-size: 14px;
+}
+  /* css end here */
+
+}
